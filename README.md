@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cine8it
-- 🌱 I’m currently learning new to coding
-- 📫 How to reach me via pm
+- 🌱 I’m currently new to coding @CS50 
+- 📫 Reach out to me via pm
 
 <!---
 Cine8it/Cine8it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
